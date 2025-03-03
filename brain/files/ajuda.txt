@@ -1,0 +1,35 @@
+1. Como obter a chave API Gemini?
+  1.1 Acesse https://aistudio.google.com/apikey e procure a opção "Get API Key" e obtenha sua chave API Gemini.
+  1.2 Logo após acesse a aba "Configurações" e cole sua chave no campo indicado.
+
+
+2. Como gerar um código de uma Atividade do AVA?
+  2.1 Acesse a atividade desejada pelo seu navegador.
+  2.2 Copie a URL ou o ID da atividade.
+  2.3 Cole no campo indicado em "Gerar Código de Atividade AVA".
+  2.4 Selecione qual forma de identificação da atividade você irá utilizar(URL ou ID).
+  2.5 Selecione Também se deseja enviar a atividade automaticamente ou apenas salvar o arquivo com o código gerado.
+  2.6 Informe o nome do arquivo no qual o código gerado vai ser salvo, com a extensão(EX: atividade.py).
+  2.7 Clique em "Gerar Código"
+
+
+3. Onde encontar o ID da atividade AVA?
+  3.1 Ao acessar a atividade na qual deseja automatizar a geração do código, procure na URL da página um campo "id=".
+  3.2 Copie o número de normalmente de 6+ dígitos.
+  3.3 Cole no campo indicado em "ID da Atividade AVA", e selecione na identificação da atividade AVA o campo "ID".
+
+
+4. Como gerar um código com um Texto?
+  4.1 Vá até a aba "Gerar Código com Texto".
+  4.2 Detalhe como você quer que seu código seja gerado.
+  4.3 Informe o nome do arquivo no qual o código gerado vai ser salvo, com a extensão(EX: atividade.py).
+  4.4 Clique em "Gerar Código"
+
+
+5. O que é o arquivo observacoes.txt?
+  5.1 O arquivo observacoes.txt contém alguns parâmetros que são informados ao Gemini para que seu código seja gerado de uma maneira a satisfazer as exigências de determinados professores.
+  5.2 O arquivo pode ser editado caso há necessidade na aba "Configurações"
+
+
+X.
+  Qualquer dúvida adicional, entrar em contato por e-mail com: mevrse@protonmail.com

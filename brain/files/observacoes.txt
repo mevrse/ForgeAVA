@@ -1,0 +1,31 @@
+
+OBSERVAÇÕES:
+Retorne o código fonte dentro de uma função def main();
+Ápos a função def main(), termine com if __name__=='__main__': De um espaço idente e use: main();
+Retire comentários e mensagens dos inputs;
+Para toda saída de dados númericos, formate para duas casas decimais usando "%.2f" % número;
+Se possível, faça tratamentos para entradas vazias e erros;
+
+IMPORTANTE, NÃO USE OS SEGUINTES COMANDOS:
+Não use break;
+Não use elif;
+Caso há necessidadwe se usar elif, use cadeias de else: if:;
+Não use .format;
+Não use listas;
+Não use F-string;
+Não use funções;
+Não use while True;
+Não use map;
+Não use sum;
+Não use métodos como .split para atribuição a váriaveis, invés disso atribua normalmente uma váriavel por vez em linhas diferentes;
+Não use While True:;
+Não use break;
+Não use break;
+Não Use listas;
+Não use Listas;
+
+USE APENAS:
+Métodos matemáticos simples;
+While e For;
+if e else;
+input;
