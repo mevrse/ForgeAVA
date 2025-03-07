@@ -35,7 +35,10 @@ class Gerador:
         '''Configurações de Usuário'''
         self.env_file = "brain/.env"
         load_dotenv(self.env_file)
-        
+
+        if not os.path.exists(f"{os.getcwd()}/generatedCodes"):
+            os.mkdir(f"{os.getcwd()}/generatedCodes")
+
         self.API_KEY = os.getenv("API_KEY", "")
         self.LOGIN = os.getenv("LOGIN", "")
         self.SENHA = os.getenv("SENHA", "")
